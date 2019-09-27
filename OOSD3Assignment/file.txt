@@ -1,0 +1,8 @@
+Countdown for:  120 seconds
+
+Paused at:  118 seconds
+
+Resumed at:  3 seconds
+
+Timer stopped at:  115 seconds
+
