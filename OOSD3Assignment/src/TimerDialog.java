@@ -11,6 +11,8 @@ public class TimerDialog extends JDialog implements ActionListener {
 	
 	// Represents the numberof seconds that the countdown will be performed for.
 	private long seconds;
+	//hello
+	//My name
 	private int hours;
 	private int mins;
 	private int secs;
